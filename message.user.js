@@ -2,11 +2,17 @@
 
 // @name          Stream4k Nachrichten Ton
 
+// @version 	  1.0
+
 // @description   Damit verpasst man keine PM.
+
+// @downloadURL   https://github.com/StumpfIstTrumpf/greasemonkey/raw/master/message.user.js
+
+// @updateURL     https://github.com/StumpfIstTrumpf/greasemonkey/raw/master/message.user.js
 
 // @include       http://forum.stream4k.net/*
 
-// @grant GM_xmlhttpRequest
+// @grant         GM_xmlhttpRequest
 
 // ==/UserScript==
 
